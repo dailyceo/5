@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xd7adC53879510459a3521fF58F59dB97d15226e1",
+  "SCAN_LINK": "https://etherscan.io/address/0xd7adC53879510459a3521fF58F59dB97d15226e1",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Infinitiva",
+  "SYMBOL": "INFINITIVA",
+  "MAX_SUPPLY": 888,
+  "WEI_COST": 88000000000000000,
+  "DISPLAY_COST": 0.08800000,
+  "GAS_LIMIT": 140000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/infinitiva",
+  "SHOW_BACKGROUND": true
+}
