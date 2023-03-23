@@ -278,30 +278,13 @@ function App() {
                 color: "var(--primary)",
               }}
             >
-              Public Mint Mar 23, 12:30 UTC
+              Public Mint is Live!
             </s.TextDescription>
 
 
 
 
 
-            <s.TextDescription
-              style={{
-                textAlign: "center",
-                fontSize: 40,
-                //fontWeight: "bold",
-                color: "var(--primary)",
-              }}
-            >
-              {truncate(
-                new Date(timeRemaining).toLocaleString("en-GB", {
-                  hour: "numeric",
-                  minute: "numeric",
-                  second: "numeric",
-                }),
-                10
-              )}
-            </s.TextDescription>
 
 
 
